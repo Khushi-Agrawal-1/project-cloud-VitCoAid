@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactapp-dev-205704-authRole",
+      "UnauthRoleArn": "arn:aws:iam::455632876623:role/amplify-amplifyreactapp-dev-205704-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::455632876623:role/amplify-amplifyreactapp-dev-205704-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-amplifyreactapp-dev-205704-deployment",
+      "UnauthRoleName": "amplify-amplifyreactapp-dev-205704-unauthRole",
+      "StackName": "amplify-amplifyreactapp-dev-205704",
+      "StackId": "arn:aws:cloudformation:eu-west-2:455632876623:stack/amplify-amplifyreactapp-dev-205704/80336aa0-da7a-11ea-befa-020a477b9a30",
+      "AmplifyAppId": "d2hifp93qt8q49"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactapp17ff568b": {}
+      }
+    }
+  },
+  "khushi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactapp-khushi-14756-authRole",
+      "UnauthRoleArn": "arn:aws:iam::907705672647:role/amplify-amplifyreactapp-khushi-14756-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::907705672647:role/amplify-amplifyreactapp-khushi-14756-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-amplifyreactapp-khushi-14756-deployment",
+      "UnauthRoleName": "amplify-amplifyreactapp-khushi-14756-unauthRole",
+      "StackName": "amplify-amplifyreactapp-khushi-14756",
+      "StackId": "arn:aws:cloudformation:ap-south-1:907705672647:stack/amplify-amplifyreactapp-khushi-14756/4970c2b0-553f-11ec-a405-06ac32e89186",
+      "AmplifyAppId": "d3ujdg9nv5m5aa"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactapp17ff568b": {}
+      }
+    }
+  }
+}
